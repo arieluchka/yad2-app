@@ -1,0 +1,18 @@
+yad 2 - functions
+
+1) user can see all second hand items for sale.
+	- users will be able to see items in a specific city
+	- users will be able to see items from a specific category
+
+
+2) users can add new item for sale (name of item(must), description(optional), city of sale(must), type item(optional)
+
+3) users can update uploaded items (set a different price/set new description)
+
+4) users can mark items as sold
+
+5) users can remove/delete uploaded items.
+
+
+
+k8s vm type - Standard_DS2_v2
