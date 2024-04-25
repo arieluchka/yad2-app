@@ -16,3 +16,18 @@ yad 2 - functions
 
 
 k8s vm type - Standard_DS2_v2
+
+add UUID package and use it as Primary Key
+
+
+ENVS:
+SQL_HOST
+SQL_USER
+SQL_PASSWORD
+SQL_DB_NAME
+SQL_PORT
+
+
+
+
+

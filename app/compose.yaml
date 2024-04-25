@@ -1,0 +1,7 @@
+services:
+  app:
+  
+  
+  sql-db:
+    image: mysql:latest
+    
